@@ -1,0 +1,4 @@
+street,a car in the high way,0.167832167832
+barcelona,a car inthe street out gas,0.231684981685
+cold,a guy is drinking beer outside,0.243650793651
+sunday,a another guy is working,0.248484848485
